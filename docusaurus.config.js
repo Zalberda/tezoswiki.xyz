@@ -5,13 +5,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Tezos Wiki',
   tagline: 'The Tezos Wiki is a place to get started and learn about Tezos. It also aims to answer the frequently asked questions about the Tezos protocol and the Tezos ecosystem.',
-  url: 'https://wiki.tezos.com',
+  url: 'https://tezoswiki.xyz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Blokhaus', // Usually your GitHub org/user name.
-  projectName: 'wiki.tezos.com', // Usually your repo name.
+  organizationName: 'Zalberda', // Usually your GitHub org/user name.
+  projectName: 'tezoswiki.xyz', // Usually your repo name.
   themeConfig: {
     algolia: {
       apiKey: '490d1d497dfa19015d0331b7de5ff3f0',
@@ -119,7 +119,7 @@ module.exports = {
           routeBasePath: '/',
           // Please change this to your repo.
           editUrl:
-            'https://github.com/tezosweb/wiki.tezos.com/edit/main/',
+            'https://github.com/Zalberda/tezoswiki.xyz/edit/main/',
         },
         blog: {
           showReadingTime: true,
