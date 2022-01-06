@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Tezos Wiki',
   tagline: 'The Tezos Wiki is a place to get started and learn about Tezos. It also aims to answer the frequently asked questions about the Tezos protocol and the Tezos ecosystem.',
-  url: 'https://tezoswiki.xyz',
+  url: 'http://tezoswiki.xyz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
